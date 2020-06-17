@@ -1,0 +1,6 @@
+fsl_gpio.h:157:20:GPIO_WritePinOutput	24	static
+fsl_tpm.h:518:20:TPM_ClearStatusFlags	16	static
+fsl_tpm.h:545:20:TPM_SetTimerPeriod	16	static
+fsl_tpm.h:579:20:TPM_StartTimer	24	static
+fsl_tpm.h:593:20:TPM_StopTimer	16	static
+MKL25Z128xxx4_RGB_RGBPrsc.c:22:5:main	56	static
